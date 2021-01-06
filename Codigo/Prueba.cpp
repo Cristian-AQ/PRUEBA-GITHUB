@@ -28,5 +28,10 @@ int main(int argc, char** argv) {
 	cin>>a;
 	cin>>b;
 	/*COMENTANDO POR TERCERA VEZ*/
+
+	void Velocidad(){
+		int c,d=0;
+		d=c+d;
+	}
 	return 0;
 }
