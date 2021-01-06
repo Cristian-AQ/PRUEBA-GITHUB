@@ -33,5 +33,10 @@ int main(int argc, char** argv) {
 		int c,d=0;
 		d=c+d;
 	}
+
+	void Aceleracion(){
+		ind e,f=0;
+		f=e+f;
+	}
 	return 0;
 }
