@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main(int argc, char** argv) {
+	int a;
 	cout<<"HOLA MUNDO";
 	for (int i = 0; i < count; i++)
 	{
@@ -8,5 +9,10 @@ int main(int argc, char** argv) {
 	}
 	cout<<"HELLO WORLD";
 	/*hola como estan XD*/
+	while (a<0)
+	{
+		a=a*a;
+	}
+	
 	return 0;
 }
