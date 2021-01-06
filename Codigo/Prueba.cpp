@@ -6,6 +6,7 @@ int main(int argc, char** argv) {
 	{
 		i=i+1;
 	}
+	cout<<"HELLO WORLD";
 	
 	return 0;
 }
