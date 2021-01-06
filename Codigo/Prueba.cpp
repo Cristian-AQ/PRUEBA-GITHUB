@@ -21,6 +21,10 @@ int main(int argc, char** argv) {
 		}
 	}
 	/*COMENTANDO DENUEVO*/
-	
+	do
+	{
+		a=a*b;
+	} while (b=0);
+		
 	return 0;
 }
