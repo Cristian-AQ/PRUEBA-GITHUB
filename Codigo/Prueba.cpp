@@ -25,6 +25,7 @@ int main(int argc, char** argv) {
 	{
 		a=a*b;
 	} while (b=0);
-		
+	cin>>a;
+	cin>>b;
 	return 0;
 }
