@@ -7,3 +7,5 @@ IMAGENES SVG ONLINE
 https://undraw.co/search
 https://fontawesome.com/icons?d=gallery&q=search
 https://unsplash.com/s/photos/house
+COMPRIMIR IMAGENES
+https://tinypng.com/
